@@ -1,0 +1,18 @@
+{
+  "name": "spack-pnpm-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sachin Raja <sachinraja2349@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@swc/cli": "0.1.52",
+    "@swc/core": "1.2.116",
+    "@types/is-even": "1.0.0",
+    "is-even": "1.0.0"
+  }
+}
