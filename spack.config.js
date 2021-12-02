@@ -1,7 +1,5 @@
 const { config } = require("@swc/core/spack");
 
-const packageJson = require("./package.json");
-
 module.exports = config({
   entry: {
     web: __dirname + "/index.ts",
